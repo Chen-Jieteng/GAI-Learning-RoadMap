@@ -29,19 +29,19 @@
 ##### Hugging Face Audio Course
 ##### CS224S: Spoken Language Processing - 斯坦福大学
 ##### Tutorial on MultiModal Machine Learning (ICML 2023) - 卡耐基梅隆大学
-11-777: MultiModal Machine Learning (Fall 2022) - 卡耐基梅隆大学
-11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - 卡耐基梅隆大学
-Neural Networks/Deep Learning - StatQuest
-Neural Networks - 3Blue1Brown
-Neural Networks: Zero to Hero - Andrej Karpathy
-Practical Deep Learning for Coders - fast.ai
-Deep Learning Specialization - 吴恩达
-6.S191: Introduction to Deep Learning - 麻省理工学院 
-CS25: Transformers United V2 - 斯坦福大学
-Deep Learning Lecture Series 2020 - DeepMind x 伦敦大学学院
-Reinforcement Learning Lecture Series 2021 - DeepMind x 伦敦大学学院 
-AI-Sys-Sp22 Machine Learning Systems - 加州大学伯克利分校
-Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter
-CS 329S: Machine Learning Systems Design - 斯坦福大学
-15-849: Machine Learning Systems - 卡耐基梅隆大学
-Computer Science 598D - Systems and Machine Learning - 普林斯顿大学
+##### 11-777: MultiModal Machine Learning (Fall 2022) - 卡耐基梅隆大学
+##### 11-877: Advanced Topics in MultiModal Machine Learning (Fall 2022) - 卡耐基梅隆大学
+##### Neural Networks/Deep Learning - StatQuest
+##### Neural Networks - 3Blue1Brown
+##### Neural Networks: Zero to Hero - Andrej Karpathy
+##### Practical Deep Learning for Coders - fast.ai
+##### Deep Learning Specialization - 吴恩达
+##### 6.S191: Introduction to Deep Learning - 麻省理工学院 
+##### CS25: Transformers United V2 - 斯坦福大学
+##### Deep Learning Lecture Series 2020 - DeepMind x 伦敦大学学院
+##### Reinforcement Learning Lecture Series 2021 - DeepMind x 伦敦大学学院 
+##### AI-Sys-Sp22 Machine Learning Systems - 加州大学伯克利分校
+##### Deep Learning Systems: Algorithms and Implementation - Tianqi Chen, Zico Kolter
+##### CS 329S: Machine Learning Systems Design - 斯坦福大学
+##### 15-849: Machine Learning Systems - 卡耐基梅隆大学
+##### Computer Science 598D - Systems and Machine Learning - 普林斯顿大学
