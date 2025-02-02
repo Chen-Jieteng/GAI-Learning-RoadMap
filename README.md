@@ -3,6 +3,7 @@
 ##### 2024/4 完成AI for Everyone 
   - 完成所有入门视频
 ##### 2024/4 完成Practical AI for Teachers and Students
+  - 完成所有入门视频
 ##### 2024/4 完成系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy
 ##### 2025/2/3 完成Artificial Intelligence for Beginners（微软）
 ##### 2025/2 完成Generative AI learnig path谷歌 
