@@ -1,8 +1,11 @@
 # NLP部分
 - 参考：https://github.com/NLP-LOVE/ML-NLP
-##### 2025/6/15 完成复习 线性回归、逻辑回归、决策树、随机僧林、GBDT、XGBoost、LightGBM、SVM、概率图模型、贝叶斯网络、马尔科夫、主题模型、最大期望算法、聚类、ML特征工程与优化方法、KNN、神经网络、CNN、RNN、GRU、LSTM、迁移学习、强化学习、深度学习的优化方法、NLP基础知识、词嵌入、子词嵌入、全局向量嵌入、textRNN & textCNN、序列到序列模型、注意力机制、Transformer模型、BERT、XLNet模型
-##### 2025/5/16 推荐系统、智能客服、知识图谱、评论分析项目代码复习
-#####
+[x] 2025/6/15 完成复习 线性回归、逻辑回归、决策树、随机僧林、GBDT、XGBoost、LightGBM、SVM、概率图模型、贝叶斯网络、马尔科夫、主题模型、最大期望算法、聚类、ML特征工程与优化方法、KNN、神经网络、CNN、RNN、GRU、LSTM、迁移学习、强化学习、深度学习的优化方法、NLP基础知识、词嵌入、子词嵌入、全局向量嵌入、textRNN & textCNN、序列到序列模型、注意力机制、Transformer模型、BERT、XLNet模型
+##### 2025/6/16 推荐系统、智能客服、知识图谱、评论分析项目代码复习
+- 参考：https://github.com/FudanNLP/nlp-beginner
+##### 2025/6/17 基于机器学习的文本分类、基于深度学习的文本分类、基于注意力机制的文本匹配
+##### 2025/6/18 基于LSTM+CRF的序列标注、基于神经网络的语言模型
+##### 
 
 # AIGC部分
 - 参考：https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md
