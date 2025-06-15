@@ -1,4 +1,4 @@
-# GAI-Learning-RoadMap
+# AIGC部分
 - 参考：https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md
 ##### 2024/4 完成AI for Everyone 
   - 完成所有入门视频
@@ -7,11 +7,17 @@
 ##### 2024/4 完成系列讲座:每周一个关于艺术基础的有趣话题 - Niji Academy
   - 完成阅读
 ##### 2025/2/3 完成Artificial Intelligence for Beginners（微软）
-##### 2025/2 完成Generative AI learnig path谷歌 
-##### 2025 AIGCTalk-Midjourney学习手册
-##### 2025 【Midjourney】保姆级AI绘画创作系列教学课程 - 莱森
-##### 2025 【AI绘画】Stable Diffusion 系列教程
-##### 2025 How Diffusion Models Work - DeepLearning.AI 
+  - 完成阅读
+##### 2025/2/5 完成Generative AI learnig path谷歌 
+  - 完成阅读
+##### 2025/2/7 AIGCTalk-Midjourney学习手册
+  - 完成阅读
+##### 2025/2/7 【Midjourney】保姆级AI绘画创作系列教学课程 - 莱森
+  - 完成阅读
+##### 2025/2/8 【AI绘画】Stable Diffusion 系列教程
+  - 完成阅读
+##### 2025/2/8 How Diffusion Models Work - DeepLearning.AI 
+  - 完成阅读
 ##### 2025 扩散模型 - Diffusion Model - 李宏毅
 ##### 2025 Diffusion扩散模型 - 唐宇迪
 ##### 2025 Hugging Face Diffusion Models Course
