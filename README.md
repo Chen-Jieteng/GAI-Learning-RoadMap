@@ -5,13 +5,13 @@
 参考：https://github.com/FudanNLP/nlp-beginner
 - [x] 基于机器学习的文本分类、基于深度学习的文本分类、基于注意力机制的文本匹配、基于LSTM+CRF的序列标注、基于神经网络的语言模型
 参考：https://github.com/DA-southampton/NLP_ability?tab=readme-ov-file
-- [ ] Transformer面试题20个
-- [ ] PyTorch（BERT在FT小数据时的稳定性）、重新初始化BERT参数、Transformer的Encoder、原生Transformer的位置编码与相对位置信息的关系、BN优缺点和适用场景、相对位置编码、LN与BN比较、Decoder模块、Transformer并行化、RNN梯度消失、ViT
-- [ ] Transformer的所有旧文章
-- [ ] FastBERT、RoBERTa、BERT无监督语义匹配的性能、UniLM、tBERT、XLNET、脱敏数据用BERT
-- [ ] BERT知识蒸馏、TextCNN逼近BERT、BERT蒸馏到简单网络LSTM、PKD-BERT基于多层的知识蒸馏方式、BERT-of-Theseus模块压缩交替训练、tinyBERT、ALBERT、BERT知识蒸馏代码
-- [ ] BERT知识蒸馏的所有旧文章
-- [ ] 向量面试题20个
+- [x] Transformer面试题20个
+- [x] PyTorch（BERT在FT小数据时的稳定性）、重新初始化BERT参数、Transformer的Encoder、原生Transformer的位置编码与相对位置信息的关系、BN优缺点和适用场景、相对位置编码、LN与BN比较、Decoder模块、Transformer并行化、RNN梯度消失、ViT
+- [x] Transformer的所有旧文章
+- [x] FastBERT、RoBERTa、BERT无监督语义匹配的性能、UniLM、tBERT、XLNET、脱敏数据用BERT
+- [x] BERT知识蒸馏、TextCNN逼近BERT、BERT蒸馏到简单网络LSTM、PKD-BERT基于多层的知识蒸馏方式、BERT-of-Theseus模块压缩交替训练、tinyBERT、ALBERT、BERT知识蒸馏代码
+- [x] BERT知识蒸馏的所有旧文章
+- [x] 向量面试题20个
 - [ ] Word2vec两种训练模型、两种优化方式、负采样和层序softmax与原模型等价问题、二次采样、负采样、获得词向量的方式、训练参数选定、CBoW和Skip-Gram
 - [ ] Fasttext文本分类、训练词向量、GLove
 - [ ] 多模态ViLBERT、多模态任务落地六大问题、多模态数据融入BERT、层次分类体系、文本和图像特征表示模块、多模态Fusion方式
